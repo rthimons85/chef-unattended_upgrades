@@ -21,7 +21,7 @@
 # unattended-upgrades log to /var/log/unattended-upgrades
 
 # install a mailx package so unattended upgrades can email notifications
-package "heirloom-mailx"
+package "s-nail"
 
 package "unattended-upgrades"
 
