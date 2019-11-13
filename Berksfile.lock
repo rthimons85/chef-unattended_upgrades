@@ -1,0 +1,7 @@
+DEPENDENCIES
+  chef-unattended_upgrades
+    path: .
+    metadata: true
+
+GRAPH
+  chef-unattended_upgrades (0.0.3)
