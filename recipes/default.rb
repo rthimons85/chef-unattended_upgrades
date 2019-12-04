@@ -21,7 +21,8 @@
 # unattended-upgrades log to /var/log/unattended-upgrades
 
 # install a mailx package so unattended upgrades can email notifications
-package "s-nail"
+#deprecated due to issues with old server
+#package "s-nail"
 
 package "unattended-upgrades"
 
